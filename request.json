@@ -1,0 +1,48 @@
+{
+    "firstname":"abdo",
+    "lastname":"oukach",
+    "email":"abdo@gmail.com",
+    "username":"abdooukach"
+}
+
+
+{
+    "authorityname":"ayoub",
+    "description":"oukach"
+}
+
+{
+    "username":"ayouboukach",
+    "password":"123456"
+}
+
+
+
+wKY3rP6Emw
+
+
+password 
+private  string userid;
+
+
+
+{
+        "id": "ac1a0001-7dba-10b8-817d-bab871070003",
+        "name": "user:read",
+        "roles": null
+    },
+    {
+        "id": "ac1a0001-7dba-10b8-817d-bab871070004",
+        "name": "user:add",
+        "roles": null
+    },
+    {
+        "id": "ac1a0001-7dba-10b8-817d-bab871070005",
+        "name": "user:update",
+        "roles": null
+    },
+    {
+        "id": "ac1a0001-7dba-10b8-817d-bab871080006",
+        "name": "user:delete",
+        "roles": null
+    }
