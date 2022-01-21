@@ -21,12 +21,8 @@
 wKY3rP6Emw
 
 
-password 
-private  string userid;
 
-
-
-{
+    {
         "id": "ac1a0001-7dba-10b8-817d-bab871070003",
         "name": "user:read",
         "roles": null
