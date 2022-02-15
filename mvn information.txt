@@ -15,3 +15,5 @@ java -jar target/exemple.jar
 mvn spring-boot:run -Dspring-boot.run.arguments=--spring.application.instance_id=ayoub
 
 mvn spring-boot:run -Dspring-boot.run.arguments="--server.port=8999 --spring.application.instance_id=ayoub2"
+
+mvn spring-boot:run -Dspring-boot.run.arguments=--spring.profiles.active=production
